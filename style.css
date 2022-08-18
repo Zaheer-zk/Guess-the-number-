@@ -128,18 +128,18 @@ h1 {
   .message {
     margin-top: 4rem;
     height: 3rem;
-    font-size: 1rem;
+    font-size: 3rem;
   }
 
   .label-score {
     margin-top: 8rem;
-    font-size: 1rem;
+    font-size: 3rem;
   }
   .label-highscore {
     margin-top: 8rem;
     width: 100%;
     margin-top: 3rem;
-    font-size: 0.5rem;
+    font-size: 3rem;
   }
 
   .guess {
