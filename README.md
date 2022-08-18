@@ -1,1 +1,3 @@
-# Guess-the-number-
+# Guess-the-number-🤔
+
+[Demo](https://zaheer-zk.github.io/Guess-the-number-/).
